@@ -1,4 +1,7 @@
 <template>
+    <div>
+        <h2>Vue Drag and Drop</h2>
+    </div>
 	<div
 		class="drop-zone"
 		@drop="onDrop($event, 1)"
